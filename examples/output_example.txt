@@ -1,0 +1,6 @@
+=== CLASS REPORT ===
+Total Students: 5
+Class Average: 76.40
+
+=== TOP PERFORMER ===
+Aman with Average = 92.20, Grade = A+
