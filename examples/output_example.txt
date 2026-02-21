@@ -1,0 +1,6 @@
+=== CLASS REPORT ===
+Total Students: 10
+Class Average: 75.76
+
+=== TOP PERFORMER ===
+Sneha with Average = 95.00, Grade = A+
